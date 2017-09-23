@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/res/merged/F0F1/debug/values-sw480dp-v13/values-sw480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Input-2016.3.1118-nstrial-release/res/values-sw480dp-v13/values-sw480dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

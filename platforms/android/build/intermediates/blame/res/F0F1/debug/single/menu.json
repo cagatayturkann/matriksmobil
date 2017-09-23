@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/res/merged/F0F1/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Feedback-2016.3.1118-nstrial-release/res/menu/send_feedback_activity_menu.xml"
+    },
+    {
+        "merged": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/res/merged/F0F1/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Feedback-2016.3.1118-nstrial-release/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/res/merged/F0F1/debug/menu/edit_details.xml",
+        "source": "/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Feedback-2016.3.1118-nstrial-release/res/menu/edit_details.xml"
+    }
+]

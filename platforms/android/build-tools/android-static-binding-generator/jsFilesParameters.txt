@@ -1,0 +1,2 @@
+/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/src/main/assets/app/views/wealth/wealth.js
+/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/src/main/assets/app/shared/view-models/wealth-view-model.js

@@ -1,0 +1,22 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
+    <Page.actionBar>
+        <ActionBar title="Wealth" color="white" style="font-family: Ubuntu;" id="wealthActionBar">
+            <GridLayout>
+                <Label text="Wealth" horizontalAlignment="center" id="wealthLabel"/>
+            </GridLayout>
+            <ActionBar.actionItems>
+                <ActionItem icon="res://ic_list_to_app_white_24dp"  android.position="right" tap="seeSymbols"/>
+                <ActionItem icon="res://ic_exit_to_app_white_24dp"  android.position="right" tap="signOut" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+    <StackLayout orientation="vertical">
+        <TextField hint="Enter Symbol Name" text="{{ symbolName }}" style="color: white; font-family: Ubuntu;" id="symbolGet" autocapitalizationType="allCharacters"/>
+        <TextField hint="Enter Amount" text="{{ amount }}" id="amount" keyboardType="number" />
+        <TextField hint="Period" text="{{ period }}" id="period" autocapitalizationType="none"/>
+        <Border borderRadius="10" borderWidth="1" borderColor="#ffffff" id="buttonCalculate">
+            <Button text="Calculate" tap="calculateWealth" id="calculate"/>
+        </Border>
+
+    </StackLayout>
+</Page>

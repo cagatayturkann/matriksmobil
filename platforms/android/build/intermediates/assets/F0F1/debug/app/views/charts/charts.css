@@ -1,0 +1,23 @@
+#chartsActionBar {
+    background-color: transparent;
+    color: white;
+    vertical-align: center;
+}
+#chartsLabel {
+    font-size: 20px;
+    font-family: Ubuntu;
+    margin-right: 40px;
+
+}
+#wealthName {
+    margin-left: 205px;
+}
+.wealth {
+    padding: 10px;
+    margin-top: 60px;
+    color: #1E1B1B;
+    font-size: 14em;
+}
+#symbolName {
+    margin-left: 65px;
+}

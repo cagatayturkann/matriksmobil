@@ -1,0 +1,16 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="onLoaded">
+    <ActionBar title="Sign In"   id="loginActionBar">
+        <GridLayout>
+            <Label text="Sign In" horizontalAlignment="center"/>
+        </GridLayout>
+    </ActionBar>
+    <StackLayout orientation="vertical" class="signIn-container">
+        <Image id="logo" src="res://logo" stretch="none" horizontalAlignment="center"/>
+        <TextField id="username" hint="Username" text="{{ username }}" keyboardType="email" autocapitalizationType="none" autocorrect="false"/>
+        <TextField id="password" hint="Password" text="{{ password }}" secure="true"/>
+        <Border borderRadius="10" borderWidth="1" borderColor="#ffffff" id="buttonBorder">
+            <Button text="Sıgn In" tap="signIn" id="signIn"/>
+        </Border>
+    </StackLayout>
+</Page>
+

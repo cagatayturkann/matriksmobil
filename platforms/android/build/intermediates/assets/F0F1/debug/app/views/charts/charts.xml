@@ -1,0 +1,32 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
+    <ActionBar title="Wealth Charts"   id="chartsActionBar">
+        <GridLayout>
+            <Label text="Wealth Charts" horizontalAlignment="center" id="chartsLabel"/>
+        </GridLayout>
+        <NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+    </ActionBar>
+    <TabView id="tabViewContainer"  tabsBackgroundColor="#00FFFFFF"  tabTextColor="white" selectedTabTextColor="white">
+        <TabView.items>
+            <TabViewItem title="WEALTH">
+                <TabViewItem.view>
+                    <GridLayout>
+                        <ListView items="{{ wealthList }}" itemTap="listViewItemTap" id="wealthList">
+                            <ListView.itemTemplate>
+                                <GridLayout  columns="2*">
+                                    <Label text="{{ symbolName }}"  id="symbolName"  col="0" class="wealth" />
+                                    <Label text="{{ wealthName }}"   col="1" id="wealthName" class="wealth" />
+                                </GridLayout>
+                            </ListView.itemTemplate>
+                        </ListView>
+                        <ActivityIndicator busy="{{ isLoading }}" rowSpan="2" colSpan="2"/>
+                    </GridLayout>
+                </TabViewItem.view>
+            </TabViewItem>
+            <TabViewItem title="BAR CHART">
+                <TabViewItem.view>
+                    <Label text="This is Label in Tab 2"/>
+                </TabViewItem.view>
+            </TabViewItem>
+        </TabView.items>
+    </TabView>
+</Page>

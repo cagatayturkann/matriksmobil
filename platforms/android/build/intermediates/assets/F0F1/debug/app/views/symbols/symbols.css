@@ -1,0 +1,19 @@
+#main-pageActionBar {
+    background-color: #003366;
+    color: white;
+    vertical-align: center;
+}
+
+#symbolCode {
+    padding: 9px;
+    font-size: 13em;
+    color: #1E1B1B;
+    font-family: Ubuntu;
+}
+#symbolsLabel {
+    font-family: Ubuntu;
+    font-size: 20px;
+}
+/*ListView {*/
+    /*background-color: #4Dc7cfdb;*/
+/*}*/

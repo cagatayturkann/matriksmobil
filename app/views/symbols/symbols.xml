@@ -1,0 +1,21 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="onLoaded">
+    <Page.actionBar>
+        <ActionBar title="Symbols" backgroundColor="transparent" color="white" style="font-family: Ubuntu;">
+            <GridLayout>
+                <Label text="Symbols" horizontalAlignment="center" id="symbolsLabel"/>
+            </GridLayout>
+            <NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+            <ActionBar.actionItems>
+                <ActionItem icon="res://ic_search_to_app_white_24dp"  android.position="left" tap="search"/>
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+    <GridLayout>
+        <ListView items="{{ symbolList }}" itemTap="listViewItemTap" id="symbolList">
+            <ListView.itemTemplate>
+                <Label text="{{ symbolCode }}" horizontalAlignment="center" verticalAlignment="center" id="symbolCode"/>
+            </ListView.itemTemplate>
+        </ListView>
+        <ActivityIndicator busy="{{ isLoading }}" rowSpan="2" colSpan="2"/>
+    </GridLayout>
+</Page>

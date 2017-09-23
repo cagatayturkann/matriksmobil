@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Matriks/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_3b07efda37b2bb4356baccf0292a425c3bb1cc98.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-23.4.0_adaebfc3ea1338693369c818191c9f414deec86f.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-23.4.0_1cde1fd0d71b23afee91998de85cd56089aec8ac.jar" />
+    </item>
+    <item
+        jar="/bin/android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-23.4.0_cc3f51596b3660037e57022efdfbb74235b28394.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Common-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="84142bd55d565994b671d3621b090e30039819cb">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Common-2016.3.1118-nstrial-release_a2bb7439a2ff21ce4fb07e3620d42580806d61d8.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-23.4.0_9947ea75fb8f0626b8256a11a157c55e1615771e.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-23.4.0_c526af04d79092fc40b29a24d33624b54e5d45fc.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-23.4.0_5549445764dc50b428c09c3d4379ba41fabf99e8.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-23.4.0_476d45143b95c3fc945bffdfb6703f0b02d9a61b.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/List-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="828987dd9c670cb79adffacb6ab57007a45899a8">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-List-2016.3.1118-nstrial-release_a35779bf977f330beeb094232cd9bb94a625d872.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Feedback-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="477a9d9bdd6378544ee97fbbf5ab41770193cc72">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Feedback-2016.3.1118-nstrial-release_8e51a76c5f03fd0f661e4c15cd2be87d2ae47248.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-23.4.0_2811c3c93503d1b078131bac08798e6c58fadc52.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9eec987a0056adc79d607b32e7e1c41997a434a7">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_f8e0a567fa781c9b14d0cc7d00333476d935e2df.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Chart-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ed49f4544e55e5a2238b27afb6dcabac135e6bdb">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Chart-2016.3.1118-nstrial-release_ed29595342484b9f6f93fdd72a9941b3fc2a30d1.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Input-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="30f8d7d590abd937a1b1f493a02125c4fa6faf20">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Input-2016.3.1118-nstrial-release_57985f50449717be6273921f26eb45921f9c3c3a.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Data-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e4a361cc1909daf1b6c2107386bb1573fd2b988a">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Data-2016.3.1118-nstrial-release_815ae3dde8c1139e9887ebb4998001bba2d46eeb.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Primitives-2016.3.1118-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d9f7456870b1aad028626449722574912eda8d6d">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Primitives-2016.3.1118-nstrial-release_59c7905db1a8d739336fe6645c5983814b9c2120.jar" />
+    </item>
+    <item
+        jar="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/exploded-aar/Matriks/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="791326bdf152dc35a200aea2938d5e5f2af0c81a">
+        <dex dex="/home/stajyer/Masaüstü/stajMatriks/development/Matriks/platforms/android/build/intermediates/pre-dexed/F0F1/debug/Matriks-runtime-unspecified_908c1ba8522506a7567d75f911504b9fcf90c176.jar" />
+    </item>
+
+</items>
